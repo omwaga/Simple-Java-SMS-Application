@@ -1,4 +1,4 @@
-##Simple SMS Application in Java
+## Simple SMS Application in Java
 
 This is a simple application in java that enables you to send text message from the Console (No GUI for the application) using the BulkSMS library from(https://bulksms.com) 
 
